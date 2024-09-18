@@ -1,0 +1,3 @@
+[submodule "tello_ros"]
+	path = tello_ros
+	url = https://github.com/PPGIA-Sistemas-Ciberfisicos/tello_ros.git
