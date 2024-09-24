@@ -3,10 +3,11 @@ ROS2 driver for Tello drones
 
 ## Packages Included
 
-Including forked versions of 2 packages:
-
+Including forked versions of:
 - **ros2_shared/**: [PPGIA-Sistemas-Ciberfisicos/ros2_shared](https://github.com/PPGIA-Sistemas-Ciberfisicos/ros2_shared)
-- **tello_ros/** [PPGIA-Sistemas-Ciberfisicos/tello_ros](https://github.com/PPGIA-Sistemas-Ciberfisicos/tello_ros)
+
+And modified version of this package:
+- **tello_ros/** [clydemcqueen/tello_ros](https://github.com/clydemcqueen/tello_ros)
 
 ## Resources
 
