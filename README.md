@@ -1,6 +1,22 @@
 # tello-ros2
 ROS2 driver for Tello drones
 
+## To clone this repo
+Ensure to clone with submodules:
+
+```bash
+git clone --recurse-submodules <repository-url>
+```
+
+## Requirements
+Dependencies are listed on **requirements.txt**. Install by running.**setup.sh**  
+```bash
+setup.sh
+```
+
+> [!WARNING] 
+> Dependencies default to ros-jazzy
+
 ## Packages Included
 
 Including forked versions of:
