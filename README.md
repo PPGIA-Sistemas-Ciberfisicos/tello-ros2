@@ -11,7 +11,7 @@ git clone --recurse-submodules <repository-url>
 ## Requirements
 Dependencies are listed on **requirements.txt**. Install by running.**setup.sh**  
 ```bash
-setup.sh
+./setup.sh
 ```
 
 > [!WARNING] 
